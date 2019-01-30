@@ -1,5 +1,4 @@
 @import "~bootstrap/dist/css/bootstrap.css";
-
 @import url("https://use.typekit.net/ojv4ekx.css");
 
 /*! bulma.io v0.7.0 | MIT License | github.com/jgthms/bulma */
@@ -5798,7 +5797,7 @@ print {
 
 @media screen and (min-width: 769px),
 print {
-    .level-left .level-item:not(last-child), .level-right .level-item:not(: last-child) {
+    .level-left .level-item:not(last-child), .level-right .level-item:not(last-child) {
         margin-right: 0.75rem
     }
 }
